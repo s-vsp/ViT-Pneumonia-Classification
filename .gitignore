@@ -1,2 +1,8 @@
 data/
 checkpoints/
+x_train.pkl
+y_train.pkl
+x_val.pkl
+y_val.pkl
+x_test.pkl
+y_test.pkl
